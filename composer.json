@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tuhin18003/puppteer-php-bridge": "dev-master"
+    }
+}
